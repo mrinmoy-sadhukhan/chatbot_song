@@ -1,0 +1,101 @@
+id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,num_bars,num_sections,num_segments
+29J4C9Mk0FoMifAUb2AnmK,Teri Isi Ada Pe Sanam,Kumar Sanu,"['Kumar Sanu', 'Sadhana Sargam']",0.478,0.438,6,-13.695,1,0.738,4.25E-05,0.372,0.829,153.06,311798,3,264,17,1220
+69yvE5MyvJtMCx75cPl583,Kitaben Bahut Si,Asha Bhosle,"['Asha Bhosle', 'Vinod Rathod']",0.619,0.721,2,-7.53,0,0.423,8.56E-05,0.0587,0.808,97.32,389387,4,156,16,1608
+6LVYBlYJ4pezcfk7V8Tttk,Chand Chhupa Badal Mein,Udit Narayan,"['Udit Narayan', 'Alka Yagnik']",0.402,0.61,11,-9.509,0,0.368,0,0.109,0.463,86.248,347013,4,122,16,1301
+47flSBZJFtT4cVsC1OXOMt,Pehla Pehla Pyar-Spbalasubhramaniam,S. P. Balasubrahmanyam,['S. P. Balasubrahmanyam'],0.594,0.53,5,-10.226,0,0.443,3.71E-06,0.421,0.457,101.831,264307,4,111,11,952
+1AhXEDyg2AbV7CAnyiAMvM,Mere Khwabon Mein,Lata Mangeshkar,['Lata Mangeshkar'],0.621,0.512,7,-11.074,0,0.634,0,0.0803,0.926,114.802,256440,4,122,6,1020
+2rEKnx0JgrhwiWanoYdw5a,Chhupana Bhi Nahin Aata,Vinod Rathod,['Vinod Rathod'],0.502,0.592,10,-11.148,0,0.372,1.02E-05,0.162,0.773,79.937,419040,3,183,19,1740
+6n6hEYHXBzWfdSzBX20ZRw,Tadap Tadap,KK,"['KK', 'Dominique']",0.468,0.462,2,-10.661,1,0.514,4.14E-06,0.162,0.161,160.307,397773,3,338,13,1340
+54tzSEMiygXoQ6yTqUUb8L,Sochenge Tumhe Pyar,Kumar Sanu,['Kumar Sanu'],0.553,0.729,0,-10.778,1,0.789,0,0.0586,0.749,125.251,362888,4,188,13,1275
+6NmGIj2leVHRKkHEGyechJ,Yeh Haseen Vadiyan Yeh Khula Aasman,A.R. Rahman,"['A.R. Rahman', 'S. P. Balasubrahmanyam', 'K. S. Chithra']",0.64,0.295,5,-16.357,1,0.425,2.05E-06,0.0804,0.107,121.903,320013,4,162,17,1177
+6fIVkFeP4tk5CzFTPDf9PE,Jaadu Teri Nazar,Udit Narayan,['Udit Narayan'],0.604,0.689,6,-13.12,0,0.401,4.45E-05,0.104,0.673,87.838,279910,4,100,13,1170
+3dDEqZAgmnMGeTh8sRueI4,Dheere Dheere Pyar Ko,Alka Yagnik,"['Alka Yagnik', 'Kumar Sanu']",0.533,0.451,9,-10.446,0,0.729,0.000251,0.331,0.801,120.553,328640,3,217,16,1267
+5rzKf4kvAXeMewlN4jeATD,Sandese Aate Hai,Sonu Nigam,"['Sonu Nigam', 'Roop Kumar Rathod']",0.459,0.837,9,-9.168,1,0.685,0,0.173,0.729,88.942,632960,4,231,22,2573
+4EfiODx46Zq7h5ORp2LVy9,Na Kajare Ki Dhar (With Jhankar Beats),Pankaj Udhas,"['Pankaj Udhas', 'Sadhana Sargam']",0.63,0.781,5,-10.534,0,0.629,1.84E-05,0.232,0.772,145.436,322627,4,193,15,1227
+0mUrj2r2vS9x1dqyVoNsB2,Mujhse Juda Hokar,Lata Mangeshkar,"['Lata Mangeshkar', 'S. P. Balasubrahmanyam']",0.553,0.38,5,-18.311,0,0.446,2.87E-05,0.307,0.861,161.161,362173,4,242,24,1351
+46jVr8q0uzUz9HIxQmjin4,Ye Toh Sach Hai Ke Bhagwan,Hariharan,"['Hariharan', 'Milind', 'Santosh', 'Pratima']",0.585,0.539,9,-10.052,0,0.47,4.43E-05,0.319,0.709,95.085,408477,4,161,17,1541
+1ZcluxOLEoQEZHp8qsHVe2,Raah Mein Unse Mulaqat,Kumar Sanu,"['Kumar Sanu', 'Alka Yagnik']",0.403,0.633,11,-8.537,0,0.366,0.001,0.366,0.722,83.408,519227,4,179,23,1864
+20g2vCsOHq5HQlpyItmsSx,Rooth Kar Hamse,Jatin Pandit,['Jatin Pandit'],0.333,0.424,9,-10.356,1,0.767,2.84E-06,0.414,0.579,183.647,315907,3,322,14,1118
+3oGL4HTmIpiD3J0f80Viqt,Hum Dil De Chuke Sanam,Kavita Krishnamurthy,"['Kavita Krishnamurthy', 'Mohammad Salamat', 'Dominique']",0.625,0.459,8,-10.762,1,0.241,0.000657,0.134,0.424,111.079,406413,4,189,19,1386
+1fwwcQiLtRhtGGNSEo5Lxr,"Chhoti Si Aasha - Version, 2",A.R. Rahman,"['A.R. Rahman', 'Minmini']",0.528,0.122,2,-20.391,1,0.481,9.42E-05,0.15,0.732,172.096,66920,4,47,6,207
+3jNAbt95cAN8Z3LzMPfoUp,Aaye Ho Meri Zindagi Mein - Male Version,Udit Narayan,['Udit Narayan'],0.598,0.836,11,-12.336,1,0.646,0.017,0.0791,0.938,135.001,362933,3,267,15,1484
+2MCn0XYasg6RAg3wVB9HEa,Mohe Chhedo Na,Lata Mangeshkar,['Lata Mangeshkar'],0.407,0.43,11,-14.295,1,0.802,0,0.0945,0.808,132.933,206600,3,148,8,679
+1nJhWGqG6WQzf0eVWRw6aE,Yeh Lamhe Yeh Pal,Hariharan,['Hariharan'],0.573,0.435,7,-14.986,1,0.678,0,0.0465,0.745,127.239,213467,4,110,11,729
+2Kja7rWFWrg3GcMQS3hyFN,Meri Duniya Hai,Sonu Nigam,"['Sonu Nigam', 'Kavita Krishnamurthy']",0.634,0.54,0,-10.506,1,0.491,5.53E-05,0.115,0.81,121.061,278107,4,137,13,1025
+0l93A9IUolKUtMtjLL4dFY,To Chalun,Roop Kumar Rathod,['Roop Kumar Rathod'],0.52,0.766,8,-9.242,0,0.239,0.00021,0.129,0.714,144.13,458693,4,273,21,1741
+4P4NsWdqLziZpEteU1uFCI,Chura Ke Dil Mera,Kumar Sanu,"['Kumar Sanu', 'Alka Yagnik']",0.613,0.696,8,-9.486,0,0.136,0.00222,0.053,0.874,122.056,474653,4,238,16,1792
+5EdPQ6eGCPF86wT7dpRctw,Humne Ghar Chhoda Hai,Udit Narayan,"['Udit Narayan', 'Sadhana Sargam']",0.377,0.671,9,-11.217,0,0.793,0.00275,0.44,0.442,98.968,377067,4,154,16,1448
+34y1d4i8uru6aQSWd8ewPT,Tumse Milne Ko Dil,Alka Yagnik,"['Alka Yagnik', 'Kumar Sanu']",0.529,0.812,1,-9.238,0,0.768,1.93E-06,0.311,0.768,138.841,300400,3,226,11,1114
+75dleHEqphd8sK9vCiYuZB,Chocolate Lime Juice,Lata Mangeshkar,['Lata Mangeshkar'],0.701,0.626,4,-14.658,1,0.478,0.000413,0.258,0.848,126.016,267533,4,138,12,1074
+3VKlfDnmnTVQUliUCIy6rP,Koi Na Koi Chahiye,Vinod Rathod,['Vinod Rathod'],0.655,0.729,11,-11.116,0,0.21,7.36E-06,0.268,0.889,124.381,383376,4,197,15,1564
+6qYtje83gTeREXYdrgXVmj,Humko Tumse Pyar Hai,Abhijeet,['Abhijeet'],0.85,0.765,2,-6.487,1,0.0503,0.000268,0.837,0.73,124.891,308067,4,158,12,1204
+1qyib2Wb5YTbNzZi7QMhEY,Ae Kash Ke Hum,Jatin-Lalit,"['Jatin-Lalit', 'Kumar Sanu']",0.364,0.687,0,-7.967,1,0.656,0,0.175,0.663,161.008,310427,3,270,15,1248
+2fsPrE2NYiHOHPMuWbjvTj,Ramta Jogi,Sukhwinder Singh,"['Sukhwinder Singh', 'Alka Yagnik']",0.798,0.636,6,-10.52,1,0.327,0,0.128,0.799,139.98,377000,4,217,22,1514
+4DjcBr310LtxxR6wq4sJRv,Mujhe Neend Na Aaye,Anuradha Paudwal,"['Anuradha Paudwal', 'Udit Narayan']",0.489,0.669,11,-10.788,0,0.819,0.0206,0.281,0.713,149.928,373573,4,230,21,1412
+3E7aYbAl6WSQ2xsSvMRaUK,Subah Se Lekar (With Jhankar Beats),Udit Narayan,"['Udit Narayan', 'Sadhana Sargam']",0.743,0.955,11,-10.566,0,0.165,0.000156,0.0451,0.937,122.223,355133,4,179,12,1458
+106VQOgiNwarz03Aegj7Yz,Chhupana Bhi Nahin Aata,Pankaj Udhas,['Pankaj Udhas'],0.394,0.517,3,-11.817,1,0.362,2.26E-06,0.129,0.646,157.333,322067,3,280,16,1299
+5mhuZ0inchJ2JimeGZInfB,Aankhon Ki Gustakhiyan,Kumar Sanu,"['Kumar Sanu', 'Kavita Krishnamurthy']",0.557,0.511,1,-9.297,0,0.525,5.78E-05,0.137,0.543,178.11,303173,3,295,16,1201
+1wWyVxdBlBU25RBRaYeHUB,Chal Pyar Karegi,Alka Yagnik,"['Alka Yagnik', 'Sonu Nigam']",0.624,0.739,5,-9.6,1,0.707,0,0.66,0.882,100.022,378093,4,156,18,1596
+0EBHgVuucZrn7ddAeTGBI0,Hum Aapke Hain Koun,Lata Mangeshkar,"['Lata Mangeshkar', 'S. P. Balasubrahmanyam']",0.675,0.393,0,-15.196,1,0.58,0.00859,0.228,0.627,116.203,240227,4,113,13,905
+38ql2maaz4VFexTGL8yIW3,Jab Kisiki Taraf Dil,Jatin-Lalit,"['Jatin-Lalit', 'Kumar Sanu']",0.517,0.584,9,-6.431,1,0.514,0,0.109,0.438,79.146,414560,4,135,16,1566
+47U38LbRLzE76b6QOPZYtu,"Chhoti Si Aasha - Version, 1",A.R. Rahman,"['A.R. Rahman', 'Minmini']",0.639,0.245,2,-15.25,1,0.128,4.69E-06,0.1,0.524,172.05,297347,4,213,18,1093
+7ynyU7I8T6aWEaKIOrKTxE,Chaaha Hai Tujhko,Udit Narayan,"['Udit Narayan', 'Anuradha Paudwal']",0.57,0.498,7,-10.864,0,0.76,8.09E-06,0.095,0.39,143.844,281000,4,166,19,993
+0GwfWsDtA0SmcCD8X71nFf,Samajh Kar Chand Jis Ko,Vinod Rathod,"['Vinod Rathod', 'Alka Yagnik']",0.354,0.555,4,-9.81,0,0.651,4.23E-06,0.614,0.64,98.283,431920,4,174,24,1552
+7n278iHoD21kun2OymTABC,Tumse Milne Ki Tamanna Hai,S. P. Balasubrahmanyam,['S. P. Balasubrahmanyam'],0.532,0.779,9,-11.326,0,0.241,0,0.154,0.671,119.735,329987,4,165,16,1245
+3xGwSN1dDdpN2s8oP8DRrC,Dheere Dheere Se Meri Zindagi Mein Aana,Anuradha Paudwal,"['Anuradha Paudwal', 'Kumar Sanu']",0.477,0.636,8,-8.334,0,0.865,0.00226,0.208,0.707,84.547,329640,4,113,13,1235
+646WEyOUsCWtVvI8BIMbeI,"Na Kajare Ki Dhar, Pt. 1 (With Jhankar Beats)",Pankaj Udhas,['Pankaj Udhas'],0.485,0.345,3,-8.763,1,0.759,0,0.381,0.411,108.407,76040,4,33,4,230
+7ulfuNRotATxJYnWBIjvyl,Maahiya Teri Kasam - Sad Version,Lata Mangeshkar,['Lata Mangeshkar'],0.435,0.346,2,-12.194,1,0.412,7.15E-06,0.123,0.324,67.736,132653,4,36,7,438
+1fWpI0NyM0SDXZpfxy73Kc,Pyaar To Hona Hi Tha,Jatin-Lalit,"['Jatin-Lalit', 'Remo Fernandes', 'Jaspinder Narula']",0.608,0.749,9,-5.763,1,0.425,2.65E-05,0.0969,0.537,117.081,187520,4,88,11,739
+7f4ZIobvD66t9i2QQJfzit,Sochna Kya,Asha Bhosle,"['Asha Bhosle', 'Shabbir Kumar', 'Kumar Sanu']",0.661,0.683,9,-10.11,0,0.329,1.63E-06,0.325,0.905,117.488,310173,4,147,15,1082
+5QJilYuxomLozb54CgdZB9,Hamen Jab Se Mohabbat,Sonu Nigam,"['Sonu Nigam', 'Alka Yagnik']",0.638,0.324,0,-10.616,1,0.838,0,0.0729,0.408,100.144,460987,4,188,24,1572
+1MVjn7qcDOW4xx4tRnEiDx,Pehli Baar Mile Hain,S. P. Balasubrahmanyam,['S. P. Balasubrahmanyam'],0.554,0.735,9,-10.107,0,0.335,0,0.132,0.859,116.469,376093,4,180,14,1416
+7ASCQHzZap5MJACzxjKQnK,Mausam Ka Jaadu,Lata Mangeshkar,"['Lata Mangeshkar', 'S. P. Balasubrahmanyam']",0.646,0.448,6,-17.248,1,0.774,1.73E-05,0.0745,0.856,88.639,303040,4,109,18,1197
+7GEVFIpWpZJwGoMvVpow5a,Ae Mere Humsafar,Vinod Rathod,"['Vinod Rathod', 'Alka Yagnik']",0.342,0.833,9,-7.577,1,0.541,0.000116,0.0991,0.585,88.133,453653,4,165,22,1740
+2XDcgHnXuTXBtcjlmcqGio,Too Cheez Badi Hain (With Jhankar Beats),Udit Narayan,"['Udit Narayan', 'Kavita Krishnamurthy']",0.65,0.932,10,-10.202,0,0.284,3.57E-05,0.166,0.68,169.043,385533,4,268,18,1606
+38nEeQx99WlPSM9KUIaEid,Ek Sanam Chahiye Aashiqui Ke Liye,Anuradha Paudwal,['Anuradha Paudwal'],0.508,0.702,0,-7.044,1,0.823,0.00501,0.55,0.695,150.973,371696,3,309,19,1443
+5zjFsuLrTM5sp6coribhCa,Taal Se Taal - Western Version,Sukhwinder Singh,['Sukhwinder Singh'],0.771,0.72,7,-11.742,1,0.203,0.0011,0.335,0.492,94.968,154200,4,58,6,588
+56h75LnnsaBy4T8N8MSNgF,Baazigar O Baazigar,Kumar Sanu,"['Kumar Sanu', 'Alka Yagnik']",0.484,0.671,4,-10.248,0,0.52,2.35E-06,0.147,0.675,106.012,459267,4,200,18,1710
+2ZBmWs7a0RlBTrhOVx1Uw8,Mhare Rajasthan Ma,Makhdoom Mohiuddin,['Makhdoom Mohiuddin'],0.377,0.425,5,-11.038,0,0.984,0.476,0.139,0.591,117.082,204243,4,99,9,739
+2FArWjBAnAmh4IpxWQGCpq,Tu Mere Samne,Lata Mangeshkar,"['Lata Mangeshkar', 'Udit Narayan']",0.462,0.405,7,-13.949,0,0.733,0,0.238,0.631,102.46,366573,4,156,16,1376
+4zS1GqwMvfSsA0g48qvxAq,"Roja - Version, 1",A.R. Rahman,"['A.R. Rahman', 'S. P. Balasubrahmanyam', 'K. S. Chithra']",0.63,0.319,4,-17.106,1,0.504,0,0.0926,0.431,90.956,306147,4,113,19,1101
+0rvNTSDuANSUSsKjeMvC2p,Jeeye to Jeeye Kaise,Pankaj Udhas,['Pankaj Udhas'],0.486,0.489,0,-11.968,1,0.249,0,0.156,0.682,128.731,209960,4,111,6,768
+5LyskuxBGjC4bdtrQIVtPl,O Priya Priya,Anuradha Paudwal,"['Anuradha Paudwal', 'Suresh Wadkar']",0.277,0.519,1,-11.04,0,0.928,0.0163,0.106,0.363,149.13,362187,4,225,17,1168
+6cCSo8zu3bRck519ZqRGfk,Pehla Nasha,Udit Narayan,"['Udit Narayan', 'Sadhana Sargam']",0.458,0.339,5,-14.309,1,0.775,2.04E-05,0.0799,0.529,151.986,291400,4,182,14,1008
+0trgRUeHWSFHZ0W1640dwA,Zara Sa Jhoom Loon Main,Asha Bhosle,"['Asha Bhosle', 'Abhijeet']",0.606,0.552,0,-12.537,0,0.681,6.87E-05,0.191,0.865,130.653,353693,4,188,14,1399
+1JIpTqNYDoO8izwIiTZki7,Lo Chali Main,Lata Mangeshkar,['Lata Mangeshkar'],0.611,0.376,11,-14.881,0,0.69,0.0011,0.37,0.752,158.066,173200,4,111,11,615
+10nnCsc6unlme3bImINZV3,Aisi Deewangi,Alka Yagnik,"['Alka Yagnik', 'Vinod Rathod']",0.444,0.755,1,-9.801,0,0.512,7.71E-05,0.0554,0.619,115.051,415476,4,195,17,1705
+6f3C6rJo7zvmfr1h5SRvxg,Ladki Badi Anjani Hai,Kumar Sanu,"['Kumar Sanu', 'Alka Yagnik']",0.637,0.774,7,-9.327,1,0.522,0.0001,0.0901,0.731,121.108,381707,4,193,18,1603
+4MJl1v1JETJ7GOqJYdwul3,Ishq Hai Ishq Hai,Jaishree Shivram,['Jaishree Shivram'],0.434,0.787,4,-6.28,0,0.791,1.57E-05,0.118,0.586,78.033,332320,4,105,11,1172
+0R5f9Wuw7ScMesQxk9g6up,Are Yaaro Mere Pyaro,Udit Narayan,"['Udit Narayan', 'Vijayta Pandit']",0.624,0.438,4,-13.907,0,0.712,4.78E-05,0.11,0.67,107.299,317048,4,140,12,1336
+5hHmEV1M2pbiI0Me6tqrij,Woh To Hai Albela,Jatin-Lalit,"['Jatin-Lalit', 'Kumar Sanu', 'Devaki Pandit']",0.509,0.541,2,-8.207,0,0.599,0,0.157,0.591,123.443,309547,4,159,15,1141
+1acxzJSLNUISeYPGa5IOZ3,Too Shayar Hai Main Teri Shayari,Alka Yagnik,['Alka Yagnik'],0.489,0.739,2,-9.743,1,0.602,4.25E-06,0.0427,0.692,117.955,389907,4,190,17,1370
+6gOFkAO9uRTH98CE85QxRm,Man Mohini,Shankar Mahadevan,['Shankar Mahadevan'],0.805,0.905,6,-7.222,0,0.159,1.06E-05,0.059,0.691,135.224,147213,4,79,6,611
+3KMub0Ud64WTbc2ELy6ZQW,Albela Sajan,Sultan Khan,"['Sultan Khan', 'Shankar Mahadevan', 'Kavita Krishnamurthy']",0.64,0.744,2,-7.9,1,0.0874,0.000292,0.0586,0.768,92.983,198840,4,74,11,834
+1TX17KGsy3lVClq9bLUcLf,Maye Ni Maye-Lata Mangeshkar,Lata Mangeshkar,['Lata Mangeshkar'],0.587,0.502,6,-13.034,0,0.769,0.0011,0.0813,0.831,165.074,261373,4,180,17,1041
+1KyNvNEJ1vsVG87gWSwk1z,Deewana Dil Deewana,Jatin-Lalit,"['Jatin-Lalit', 'Amit Kumar', 'Udit Narayan']",0.605,0.621,2,-7.484,1,0.445,3.36E-06,0.104,0.864,105.535,457027,4,200,20,1751
+4eGvkvURACcS8kFqSCf0Ip,Ishq Hua Kaise Hua,Udit Narayan,"['Udit Narayan', 'Vibha Sharma']",0.479,0.747,6,-6.227,0,0.56,0.000728,0.422,0.502,79.323,454667,4,151,24,1569
+3YxPhzBX513g8w9NGq7ocX,Dil Ka Aalam,Kumar Sanu,['Kumar Sanu'],0.507,0.709,7,-7.084,0,0.667,6.51E-05,0.369,0.866,97.415,300200,4,120,13,1195
+0MOJU1KKbcDTgkdUtLs8G3,Aaye Ho Meri Zindagi Mein - Female Version,Alka Yagnik,['Alka Yagnik'],0.565,0.754,8,-11.636,0,0.678,0.0442,0.0756,0.922,135.01,363333,3,269,17,1458
+0H8qDYE0qGsde0amHRacyn,Dont Say No,Amit Kumar,"['Amit Kumar', 'S. Janaki']",0.562,0.703,9,-11.813,1,0.347,0.000169,0.76,0.86,88.978,480493,4,175,18,1989
+26L6AubculSS4OuRxDo6Nh,Gupt Gupt - Title Version,Kavita Krishnamurthy,"['Kavita Krishnamurthy', 'Hema Sardesai', 'Chetan']",0.771,0.922,0,-7.295,0,0.229,0.16,0.359,0.62,109.081,176840,4,77,6,713
+64bX3WWzjUomaRfPcQvCNn,Bahut Pyar Karte Hai - Female Version,Anuradha Paudwal,['Anuradha Paudwal'],0.452,0.49,4,-11.685,0,0.658,5.71E-06,0.167,0.724,123.669,265667,4,136,10,981
+16W3Eqvgh4Sl84RoHZYnNV,Jiya Jale,Lata Mangeshkar,"['Lata Mangeshkar', 'M. G. Sreekumar']",0.767,0.503,9,-13.424,1,0.12,9.56E-05,0.158,0.483,141.996,309107,4,178,14,1305
+09b9rdkIwUHE2r9j6RX2n9,Ghoongte Mein Chanda,Udit Narayan,['Udit Narayan'],0.759,0.76,6,-10.802,0,0.294,0.00022,0.053,0.699,91.848,372000,4,140,16,1489
+11bs8l4oXFWTktWkXmtvg2,Kaga To Ud Gaya,Alka Yagnik,['Alka Yagnik'],0.537,0.622,6,-10.153,0,0.892,0.00218,0.129,0.802,120.455,316533,3,212,12,1188
+4n5vaqluWQjCrKr4JLZIRh,Tere Dar Par Sanam - Male Version,Kumar Sanu,['Kumar Sanu'],0.51,0.44,2,-16.345,1,0.445,3.98E-06,0.241,0.665,82.454,368867,4,126,15,1405
+6ttvgWnBAt72SIojbcnlKn,Ajnabi Mujhko Itna Bata,Jatin-Lalit,"['Jatin-Lalit', 'Asha Bhosle', 'Udit Narayan']",0.535,0.727,5,-4.532,0,0.768,3.86E-05,0.0713,0.621,98.23,373800,4,151,10,1341
+6yTtUUlsBXN9h9ZxTxGWMS,Bahut Pyar Karte Hai - Male Version,S. P. Balasubrahmanyam,['S. P. Balasubrahmanyam'],0.505,0.518,4,-12.073,0,0.229,0,0.17,0.751,123.8,185400,4,91,10,625
+30yySOIXHZYx94sLAySy2j,Dil Se Re,A.R. Rahman,"['A.R. Rahman', 'Anuradha', 'Anupama']",0.844,0.442,9,-16.54,1,0.00882,0.000498,0.0879,0.436,105.986,405707,4,177,14,1722
+29aXjacS6WBOnNHjKp7S4e,Megha Re Megha,Lata Mangeshkar,"['Lata Mangeshkar', 'Ila Arun']",0.456,0.595,6,-12.332,1,0.742,0,0.208,0.739,99.796,267907,4,108,11,900
+1usJKPPaZ3J5XZFai2x98X,Ae Ajnabi,Udit Narayan,"['Udit Narayan', 'Mahalakshmi Iyer']",0.726,0.323,11,-12.599,0,0.588,0,0.0951,0.481,121.958,349493,4,175,17,1234
+20UvuxJ3vf2aDJjaNpgZZt,Kuch Kuch Hota Hai - Sad,Alka Yagnik,['Alka Yagnik'],0.229,0.327,7,-14.188,1,0.707,0.0014,0.0654,0.122,146.384,87733,4,49,4,277
+5L9fLNHSj5SuGvJRljdWJb,Koi Mil Gaya,Kavita Krishnamurthy,"['Kavita Krishnamurthy', 'Udit Narayan', 'Alka Yagnik']",0.7,0.687,2,-9.292,1,0.503,1.20E-05,0.057,0.815,136.028,437693,4,246,18,1732
+0dAWzBAbFmlag9RHW6urfn,Ghar Aaja Pardesi,Pamela Chopra,"['Pamela Chopra', 'Manpreet Kaur']",0.342,0.559,0,-10.503,0,0.846,8.17E-06,0.07,0.492,90.496,451840,4,166,22,1647
+0kGackDOW4tY8WZrUtQDHG,Ye Kaali Kaali Aankhen,Kumar Sanu,"['Kumar Sanu', 'Anu Malik']",0.836,0.701,0,-10.905,1,0.109,2.69E-05,0.103,0.821,121.836,468293,4,223,18,1744
+4Ujq2kyqN7XhUVL3poxF43,Sajde Na Kiye Maine,Vinod Rathod,"['Vinod Rathod', 'Sadhana Sargam']",0.387,0.8,6,-5.309,0,0.805,0.00252,0.364,0.655,87.569,432000,4,154,24,1619
+3G7qmEFRlTcSwMtb5m2CSn,Shehar Ki Pariyon,Udit Narayan,"['Udit Narayan', 'Sadhana Sargam']",0.582,0.449,7,-13.331,0,0.803,4.91E-06,0.184,0.758,87.527,317179,3,151,12,1203
+4OhfGiEADfXzLA8Tr7CtYS,Akeli Mein Aayi,Alisha Chinai,['Alisha Chinai'],0.58,0.876,0,-8.38,1,0.603,0.000403,0.451,0.707,178.421,432000,3,405,14,1692
+17okP544kN9LplIdJ6E3qN,Mere Sanam,Sadhana Sargam,"['Sadhana Sargam', 'Udit Narayan']",0.653,0.851,7,-7.636,0,0.334,0.0367,0.135,0.886,129.969,350000,4,187,21,1635
+6O67k5Tj6ty5Ug97IX58Y2,Chudiyan Khanak Gayeen,Lata Mangeshkar,"['Lata Mangeshkar', 'Ila Arun']",0.341,0.525,1,-14.295,0,0.697,0,0.251,0.773,91.509,360333,4,137,14,1307
+78UC4S8u0bDAej8HklCNCE,Yeh Hai Pyar Pyar,Asha Bhosle,"['Asha Bhosle', 'Kumar Sanu']",0.589,0.38,5,-14.457,0,0.685,0,0.114,0.564,149.11,294000,4,178,14,1067
+0LdJcUxGJywXLcxdXZ4wsb,Mere Khwabon Mein Tu,Alka Yagnik,"['Alka Yagnik', 'Kumar Sanu']",0.712,0.741,7,-7.971,0,0.179,2.78E-06,0.078,0.54,114.975,335000,4,157,15,1275

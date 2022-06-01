@@ -1,0 +1,18 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - hi
+- intent: mood_great
+  examples: |
+    - feel good
+- intent: musicchat
+  examples: |
+    - i want to listen music
+- intent: musicsong
+  examples: |
+    - my fav song chhoti se asa
+    - [chhoti se asa](music)
+- intent: goodbye
+  examples: |
+    - bye

@@ -1,0 +1,18 @@
+[
+  {
+    "text": "good afternoon",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.6726353764533997
+    }
+  },
+  {
+    "text": "unhappy",
+    "intent": "symptom",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.6704309582710266
+    }
+  }
+]

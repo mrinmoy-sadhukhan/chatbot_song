@@ -1,0 +1,116 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: song path happy
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+  - intent: musicchat
+  - action: utter_musicchat
+  - intent: musicsong
+  - action: custom_musicsong
+
+- story: song path sad
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_cheer_up
+  - intent: musicchat
+  - action: utter_musicchat
+  - intent: musicsong
+  - action: custom_musicsong
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+#- story: happy path
+#  steps:
+#  - intent: greet
+#  - action: utter_greet
+#  - intent: mood_great
+#  - action: utter_happy
+#  - action: utter_did_that_help
+#  - intent: affirm
+#  - action: utter_songplay
+#  - intent: singer_name
+#  - action: custom_typesong
+#  - action: utter_songlang
+
+#- story: bengali path
+#  steps:
+#  - intent: bengali
+#  - action: utter_bengali
+
+
+#- story: hindi path
+#  steps:
+#  - intent: hindi
+#  - action: utter_hindi
+
+#- story: rock song path
+#  steps:
+#  -  intent: rock
+#     entities:
+#       - songtype: "rock"
+#  -  slot_was_set:
+#       - songtype: "rock"
+#  -  action: utter_rock
+#- story: sad song path
+#  steps:
+#  -  intent: sad
+#     entities:
+#       - songtype: "sad"
+#  -  slot_was_set:
+#       - songtype: "sad"
+#  -  action: utter_sad
+
+#- story: sad path
+#  steps:
+#  - intent: greet
+#  - action: utter_greet
+#  - intent: mood_great
+#  - action: utter_cheer_up
+#  - action: utter_did_that_help
+#  - intent: deny
+#  - action: utter_goodbye
+#  - intent: deny
+#  - action: utter_songplay
+#  - intent: singer_name
+#  - action: custom_typesong
+
+#  - action: utter_songlang
+
+
+
+
+
+
+
